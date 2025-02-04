@@ -1,5 +1,5 @@
 #Programme de gestion des étudiants et des notes
-
+#Mise a jour du fichier "groupe1.py"
 etudiants = []  # Création d’une liste vide
 notes = []  # Liste pour stocker les notes des étudiants
 
